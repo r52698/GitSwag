@@ -3,13 +3,7 @@ package com.example.org.coderswag.Controller
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
-import android.widget.Adapter
-import android.widget.ArrayAdapter
-import android.widget.LinearLayout
-import android.widget.Toast
-import com.example.org.coderswag.Adapters.CategoryAdapter
 import com.example.org.coderswag.Adapters.CategoryRecycleAdapter
-import com.example.org.coderswag.Model.Category
 import com.example.org.coderswag.R
 import com.example.org.coderswag.Services.DataService
 import kotlinx.android.synthetic.main.activity_main.*
